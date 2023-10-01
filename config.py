@@ -9,5 +9,5 @@ API_HASH = "5a2684512006853f2e48aca9652d83ea"
 BOT_TOKEN = "6271198287:AAFluU_3WWZcED4ujHq8dND_GCdESqBUdwI"
 OWNER_ID = 5236502892
 
-MONGO_DB_URI = "mongodb+srv://lixadov742:z31GaGZd07DMuDAh@cluster0.nlyt7sc.mongodb.net/?retryWrites=true&w=majority"
+MONGO_DB_URI = "mongodb+srv://kanha:kanha@cluster0.deod7rx.mongodb.net/?retryWrites=true&w=majority"
 MUST_JOIN = "None"
