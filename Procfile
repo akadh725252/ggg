@@ -1,1 +1,1 @@
-worker: python3 main.py
+worker: pip install -r req* && python3 main.py
