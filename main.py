@@ -14,7 +14,7 @@ app = Client(
     "Anonymous",
     api_id=1747534,
     api_hash="5a2684512006853f2e48aca9652d83ea",
-    bot_token="6271198287:AAFluU_3WWZcED4ujHq8dND_GCdESqBUdwI",
+    bot_token="6453838005:AAFFTBlDOZMiOFi9J1eRPayFo0Yrh4PB03M",
     in_memory=True,
     plugins=dict(root="StringGenBot"),
 )
